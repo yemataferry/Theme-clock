@@ -51,6 +51,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  border: 1px solid #23f108;
+  border-radius: 3px;
+  padding: 25px;
+  background-color: aqua;
 }
 
 .clock {
